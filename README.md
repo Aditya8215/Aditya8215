@@ -46,10 +46,21 @@ AI/ML Engineer with **2+ years of hands-on experience** in building solutions ac
 ### 🔹 [Hybrid Movie Recommendation System](https://github.com/Aditya8215/Movie_Recommendation.git)  
 - **Goal:** Movie recommendation using **Collaborative + Content-based filtering**  
 - **Tech:** Flask, Python APIs  
+- **Features:** Collaborative Filtering, Content-Based Filtering, Hybrid Models, MovieLens Integration  
+
+### 🔹 [Calorie Burnt Prediction App](https://github.com/Aditya8215/Calorie-Burnt)  
+- **Goal:** Predict calories burnt during exercise using physiological data  
+- **Tech:** Streamlit, Flask, ML Regression, EDA  
+- **Accuracy:** 94%  
+
+### 🔹 [Energy Causal Inference Demo](https://github.com/Aditya8215/Energy_casual_inference_demo)  
+- **Goal:** Apply causal inference methods to energy datasets  
+- **Tech:** Python, Jupyter Notebooks, Do-Calculus, A/B Testing, Propensity Scoring, Causal ML  
+- **Features:** Step-by-step notebooks, real-world datasets, end-to-end causal analysis pipeline  
 
 ### 🔹 [Credit Card Churn Prediction](https://github.com/Aditya8215/Deep-Learning-Practice.git)  
 - **Goal:** Predict churn based on customer demographics & usage  
-- **Tech:** ANN, Google Colab | **Accuracy:** 86%  
+- **Tech:** ANN, Keras, Google Colab | **Accuracy:** 86%  
 
 ### 🔹 [Automatic Tag Prediction](https://github.com/Aditya8215/Automatic_Tag_Prediction)  
 - **Goal:** Predict relevant tags for documents using ML models  
@@ -57,7 +68,7 @@ AI/ML Engineer with **2+ years of hands-on experience** in building solutions ac
 
 ---
 
-## 🔒 Private Projects  
+## 🔒 Private & Advanced Projects  
 
 ### 🔹 Agentic RAG (Retrieval-Augmented Generation)  
 - **Goal:** Built advanced **Agentic AI pipelines** for contextual reasoning and multi-step task automation.  
@@ -97,10 +108,30 @@ Relevant Coursework: Machine Learning, Deep Learning, AI, OOPs, DSA, Cloud, OS, 
 
 ---
 
-## 🔥 GitHub Stats  
+## 📈 GitHub Portfolio Highlights
+
+| Project | Domains | Key Tech | Demo/Link |
+|---------|---------|----------|-----------|
+| [Voice-Box: Sign Language Interpreter](https://github.com/Aditya8215/Voice-Box) | CV, NLP, Accessibility | CNN, BiLSTM, Flutter, Firebase | [Repo](https://github.com/Aditya8215/Voice-Box) |
+| [Movie Recommendation System](https://github.com/Aditya8215/Movie_Recommendation) | Recommender Systems | Collaborative & Content-Based, Flask | [Repo](https://github.com/Aditya8215/Movie_Recommendation) |
+| [Calorie Burnt Prediction App](https://github.com/Aditya8215/Calorie-Burnt) | Health, ML | Regression, Streamlit, EDA | [Repo](https://github.com/Aditya8215/Calorie-Burnt) |
+| [Energy Causal Inference Demo](https://github.com/Aditya8215/Energy_casual_inference_demo) | Causal ML, Energy | Do-Calculus, Python | [Repo](https://github.com/Aditya8215/Energy_casual_inference_demo) |
+| [Automatic Tag Prediction](https://github.com/Aditya8215/Automatic_Tag_Prediction) | NLP | ML Pipelines | [Repo](https://github.com/Aditya8215/Automatic_Tag_Prediction) |
+| [Deep Learning Practice](https://github.com/Aditya8215/Deep-Learning-Practice) | ML, Deep Learning | ANN, CNN, GAN, RNN | [Repo](https://github.com/Aditya8215/Deep-Learning-Practice) |
+
+---
+
+## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya8215&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya8215&layout=compact&theme=radical)  
+
+---
+
+## 🤝 Let's Connect!
+
+I love collaborating on open-source, hackathons, and research projects.  
+If you're a recruiter, fellow developer, or enthusiast, feel free to reach out for collaboration, hiring, or just to say hi!
 
 ---
 
