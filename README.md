@@ -80,11 +80,6 @@ AI/ML Engineer with **2+ years of hands-on experience** in building solutions ac
 - **Tech:** Tesseract OCR, Hugging Face Transformers, PyTorch, FastAPI.  
 - **Impact:** Achieved **+5% extraction accuracy** over baseline; integrated into **hospital workflows**.  
 
-### 🔹 HandyNotes (AI-Powered Study Notes App)  
-- **Goal:** Convert handwritten notes into **well-structured digital notes** (text, diagrams, tables).  
-- **Features:** Smart summarization (1-week, 3-days, 1-day formats), collaboration & group sharing.  
-- **Tech:** OCR, LLMs, MediaPipe, Flutter, Firebase.  
-
 ### 🔹 Extractive QnA System  
 - **Goal:** Built a **domain-specific Extractive Question Answering system** for structured knowledge retrieval.  
 - **Tech:** Hugging Face QA Models, XGBoost (for hybrid ranking), RAG pipelines.  
@@ -104,7 +99,8 @@ Relevant Coursework: Machine Learning, Deep Learning, AI, OOPs, DSA, Cloud, OS, 
 
 - 🏆 **RedBus Hackathon Finalist**  
 - 🏆 **NCC RDC Camp – Selected**  
-- 🤖 **Top-5 International Robotics Competition**  
+- 🤖 **Top-5 International Robotics Competition**
+- 🏆 **Kaggle Expert**
 
 ---
 
